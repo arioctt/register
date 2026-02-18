@@ -4,6 +4,7 @@
         "email": "developer@arictogram.ru"
     },
     "record": {
-        "CNAME": "cname.vercel-dns.com"
+        "CNAME": "f83a83c9c9bfd8bc.vercel-dns-017.com.",
+        "TXT": ["vc-domain-verify=www.arictogram.is-a.dev,25ecbbb550c52020f921"]
     }
 }
